@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="news_api_label">Powered by NewsApi.org</string>
+    <string name="search_articles">Search articles</string>
+</resources>
